@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋, I'm GUNTIKALYAN
 
-<!--
-**GUNTIKALYAN/GUNTIKALYAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate frontend developer and Data Scientist
 
-Here are some ideas to get you started:
+![Programmer Gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 I’m currently learning
+- React Native
+
+---
+
+### 💬 Ask me about
+- Web development, Data Science, and Machine Learning
+
+---
+
+### 📫 How to reach me
+- Email: [kalyansagar7008@gmail.com](mailto:kalyansagar7008@gmail.com)
+
+---
+
+### 📄 Know about my experiences
+- [Click here to view my experiences](https://drive.google.com/file/d/1ziVYVWSiRFOEscaSR6sDHh_oWSTrgldy/view?usp=sharing)
+
+---
+
+### Skills
+
+#### Programming Languages
+- C++
+- JavaScript
+- Python
+
+#### Frontend Development
+- React
+- Bootstrap
+- Vuetify
+- CSS3
+- HTML5
+
+#### Backend Development
+- Node.js
+
+#### AI/ML
+- NumPy
+- Pandas
+- Seaborn
+- Scikit-learn
+
+#### Database
+- MongoDB
+- MySQL
+
+#### Framework
+- Flask
+
+#### Software
+- Figma
+- MATLAB
+
+---
+
+### Social
+- [GitHub](https://github.com/guntikalyan)
+- [LinkedIn](https://www.linkedin.com/in/gunti-kalyan-470b87)
+- [LeetCode](https://leetcode.com/u/gunti_kalyan/)
+
+---
+
+### Add-ons
+
+- ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=guntikalyan.guntikalyan)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guntikalyan&show_icons=true)
+- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guntikalyan)
+- ![Top Languages](https://github-readme-top-langs.vercel.app/api/top-langs/?username=guntikalyan&layout=compact)
