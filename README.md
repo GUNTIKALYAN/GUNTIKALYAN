@@ -1,60 +1,58 @@
-# Hi 👋, I'm GUNTIKALYAN
+# 👋 Hi, I'm Kalyan Gunti (a.k.a Neyo)
 
-A passionate frontend developer and Data Scientist
+A passionate **Frontend Developer**, aspiring **AI Engineer**, and an eternal student of **Data Science** and **Machine Learning**.  
+Welcome to my GitHub space — where curiosity meets code. 🚀
 
-<p align="left">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer Gif" width="200">
-</p>
+---
 
-## 🌱 I’m currently learning
-- React Native
+## 👨‍💻 About Me
 
-## 💬 Ask me about
-- Web development, Data Science, and Machine Learning
+- 🔭 Currently building apps using **Flask**, **Vanilla JS**, and **ML APIs**
+- 🌱 Deep-diving into **React Native**, **LLMs**, and **AI Agents**
+- 💬 Ask me about **Web Development**, **Machine Learning**, or **any cool project idea**
+- 🧠 Lifelong learner | Obsessed with meaningful user experiences
+- 📫 Reach me: [kalyansagar7008@gmail.com](mailto:kalyansagar7008@gmail.com)
 
-## 📫 How to reach me
-- Email: [kalyansagar7008@gmail.com](mailto:kalyansagar7008@gmail.com)
+---
 
-## 📄 Know about my experiences
-- [Click here to view my experiences](https://drive.google.com/file/d/1ziVYVWSiRFOEscaSR6sDHh_oWSTrgldy/view?usp=sharing)
+## 🛠️ Tech Stack
 
-## Skills
+### 💻 Programming
+- Python | C++ | JavaScript
 
-### Programming Languages
-- C++
-- JavaScript
-- Python
+### 🌐 Frontend
+- HTML5 | CSS3 | JavaScript
 
-### Frontend Development
-- React
-- Bootstrap
-- Vuetify
-- CSS3
-- HTML5
+### 🧠 AI & ML
+- NumPy | Pandas | Seaborn | Scikit-learn
 
-### Backend Development
-- Node.js
+### 🧰 Backend & APIs
+- Flask | Node.js
 
-### AI/ML
-- NumPy
-- Pandas
-- Seaborn
-- Scikit-learn
+### 🗃️ Database
+- MongoDB | MySQL
 
-### Database
-- MongoDB
-- MySQL
+### 🛠️ Tools & Design
+- Git | Figma | VS Code | MATLAB
 
-### Framework
-- Flask
+---
 
-### Software
-- Figma
-- MATLAB
+## 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guntikalyan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guntikalyan&layout=compact&theme=radical)
 
-## Add-ons
-- ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=guntikalyan.guntikalyan)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guntikalyan&show_icons=true)
-- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=guntikalyan)
-- ![Top Languages](https://github-readme-top-langs.vercel.app/api/top-langs/?username=guntikalyan&layout=compact)
+---
+
+## 📄 Resume & Experience
+
+- [📎 View My Resume](https://drive.google.com/file/d/1ziVYVWSiRFOEscaSR6sDHh_oWSTrgldy/view?usp=sharing)
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to connect, collaborate, or just say hi —  
+Whether it’s about building something impactful, debugging a strange error, or geeking out on AI.
+
+> *"Code is art. Data is poetry. Let’s build the future, one commit at a time."* 🌟
