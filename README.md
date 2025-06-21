@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kalyan Gunti (a.k.a Neyo)
+# 👋 Hi, I'm Gunti Kalyan (a.k.a Neyo)
 
 A passionate **Frontend Developer**, aspiring **AI Engineer**, and an eternal student of **Data Science** and **Machine Learning**.  
 Welcome to my GitHub space — where curiosity meets code. 🚀
