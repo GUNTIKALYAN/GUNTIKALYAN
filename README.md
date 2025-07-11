@@ -46,7 +46,7 @@ Welcome to my GitHub space — where curiosity meets code. 🚀
 
 ## 📄 Resume & Experience
 
-- [📎 View My Resume](https://drive.google.com/file/d/1ziVYVWSiRFOEscaSR6sDHh_oWSTrgldy/view?usp=sharing)
+- [📎 View My Resume](https://drive.google.com/file/d/1wBAQVrh_IwwBkNdztBdFg97_ZJbqWj2K/view?usp=sharing)
 
 ---
 
