@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Gunti Kalyan (a.k.a Neyo)
+#  Hi, I'm Gunti Kalyan (a.k.a Neyo)
 
 A passionate **Frontend Developer**, aspiring **AI Engineer**, and an eternal student of **Data Science** and **Machine Learning**.  
-Welcome to my GitHub space — where curiosity meets code. 
+Welcome to my GitHub space . 
 
 ---
 
@@ -17,22 +17,22 @@ Welcome to my GitHub space — where curiosity meets code.
 ### Tech Stack
 
 ###  Programming
-- Python | C++ | JavaScript
+- Python | C++ | JavaScript | R
 
 ###  Frontend
 - HTML5 | CSS3 | JavaScript | React
 
 ###  AI & ML
-- NumPy | Pandas | Seaborn | Scikit-learn
+- NumPy | Pandas | Seaborn | Matplotlib | Scikit-learn | Tensorflow | NLP | SentenceTransformers
 
 ###  Backend & APIs
-- Flask | Node.js
+- Flask | Node.js | REST APIs
 
 ###  Database
-- MongoDB | MySQL
+- MongoDB | MySQL | ChromaDB
 
 ### Tools & Design
-- Git | Figma | VS Code | MATLAB
+- Git | Github | Figma | VS Code | MATLAB 
 
 ---
 
@@ -54,4 +54,4 @@ Welcome to my GitHub space — where curiosity meets code.
 Feel free to connect, collaborate, or just say hi —  
 Whether it’s about building something impactful, debugging a strange error, or geeking out on AI.
 
-> *"Code is art. Data is poetry. Let’s build the future, one commit at a time."* 🌟
+> *"Trust the process"* 
