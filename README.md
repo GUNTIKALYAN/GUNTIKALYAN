@@ -9,24 +9,35 @@ Welcome to my GitHub space .
 
 -  Currently building apps using **Flask**, **Vanilla JS**, and **ML APIs**
 -  Deep-diving into **React Native**, **LLMs**, and **AI Agents**
--  Ask me about **Web Development**, **Machine Learning**, or **any cool project idea**
+-  Ask me about **Web Development**, **Machine Learning**
 -  Reach me: [kalyansagar7008@gmail.com](mailto:kalyansagar7008@gmail.com)
 
 ---
 
-### Tech Stack
+### Core Skills
 
 ###  Programming
 - Python | C++ | JavaScript | R
 
 ###  Frontend
-- HTML5 | CSS3 | JavaScript | React
+- HTML5 | CSS3 | JavaScript
 
-###  AI & ML
-- NumPy | Pandas | Seaborn | Matplotlib | Scikit-learn | Tensorflow | NLP | SentenceTransformers
+### Machine Learning
+- Python, NumPy, Pandas, Scikit-learn
+- TensorFlow, NLP, SentenceTransformers
+- Vector Databases (ChromaDB), Embedding Pipelines
+- Model Training, Evaluation, Deployment (Flask APIs)
 
-###  Backend & APIs
-- Flask | Node.js | REST APIs
+###  Data Science
+- Data Cleaning, EDA, Feature Engineering
+- Statistical Modeling, Linear/Logistic Regression
+- Time Series, Clustering, Classification
+- Data Visualization (Matplotlib, Seaborn)
+
+## Backend & Engineering
+- Flask | REST APIs | Async Workflows
+- MongoDB | MySQL
+- LLM API Integration (Groq, Gemini, OpenAI, Llama)
 
 ###  Database
 - MongoDB | MySQL | ChromaDB
@@ -36,22 +47,17 @@ Welcome to my GitHub space .
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guntikalyan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guntikalyan&layout=compact&theme=radical)
-
 ---
 
-## Resume & Experience
+## Resume
 
-- [📎 View My Resume](https://drive.google.com/file/d/1wBAQVrh_IwwBkNdztBdFg97_ZJbqWj2K/view?usp=sharing)
+- [📎 View My Resume](https://drive.google.com/file/d/1_qJyUpsvMId7aw4KuI4cCRMiFDha_yVf/view?usp=sharing)
 
 ---
 
 ## Let’s Connect
 
-Feel free to connect, collaborate, or just say hi —  
+Feel free to connect, collaborate, or just say hi 
 Whether it’s about building something impactful, debugging a strange error, or geeking out on AI.
 
 > *"Trust the process"* 
