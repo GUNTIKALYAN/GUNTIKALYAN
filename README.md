@@ -51,7 +51,7 @@ Welcome to my GitHub space .
 
 ## Resume
 
-- [📎 View My Resume](https://drive.google.com/file/d/1_qJyUpsvMId7aw4KuI4cCRMiFDha_yVf/view?usp=sharing)
+- [📎 View My Resume](https://drive.google.com/file/d/1RlCzZn6tiZsbS3Ix7rsJCKBkg_MSDOst/view?usp=sharing)
 
 ---
 
